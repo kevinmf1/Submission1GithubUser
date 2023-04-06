@@ -1,0 +1,48 @@
+{
+  "total_count": 2,
+  "incomplete_results": false,
+  "items": [
+    {
+      "login": "kevinmf1",
+      "id": 97342935,
+      "node_id": "U_kgDOBc1V1w",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97342935?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/kevinmf1",
+      "html_url": "https://github.com/kevinmf1",
+      "followers_url": "https://api.github.com/users/kevinmf1/followers",
+      "following_url": "https://api.github.com/users/kevinmf1/following{/other_user}",
+      "gists_url": "https://api.github.com/users/kevinmf1/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/kevinmf1/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/kevinmf1/subscriptions",
+      "organizations_url": "https://api.github.com/users/kevinmf1/orgs",
+      "repos_url": "https://api.github.com/users/kevinmf1/repos",
+      "events_url": "https://api.github.com/users/kevinmf1/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/kevinmf1/received_events",
+      "type": "User",
+      "site_admin": false,
+      "score": 1
+    },
+    {
+      "login": "kevinmf1978",
+      "id": 22080516,
+      "node_id": "MDQ6VXNlcjIyMDgwNTE2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22080516?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/kevinmf1978",
+      "html_url": "https://github.com/kevinmf1978",
+      "followers_url": "https://api.github.com/users/kevinmf1978/followers",
+      "following_url": "https://api.github.com/users/kevinmf1978/following{/other_user}",
+      "gists_url": "https://api.github.com/users/kevinmf1978/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/kevinmf1978/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/kevinmf1978/subscriptions",
+      "organizations_url": "https://api.github.com/users/kevinmf1978/orgs",
+      "repos_url": "https://api.github.com/users/kevinmf1978/repos",
+      "events_url": "https://api.github.com/users/kevinmf1978/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/kevinmf1978/received_events",
+      "type": "User",
+      "site_admin": false,
+      "score": 1
+    }
+  ]
+}

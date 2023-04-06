@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#3C1D83</color>
+    <color name="teal_200">#B6EADA</color>
+    <color name="teal_800">#FF018786</color>
+    <color name="teal_700">#66347F</color>
+    <color name="purple">#66347F</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="turquoise">#DFB294</color>
+    <color name="navy">#37306B</color>
+
+    <color name="color_detail">#635985</color>
+    <color name="numberColor">#FFFFFF</color>
+    <color name="colorDetail">#3A98B9</color>
+    <style name="ProgressBarStyle">
+        <item name="colorAccent">@color/white</item>
+    </style>
+</resources>

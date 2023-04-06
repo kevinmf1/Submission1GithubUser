@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Github User</string>
+
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Followings</string>
+    <string name="repositoryKet">Repository</string>
+
+
+    <string name="followingNone">Tidak ada Followings</string>
+    <string name="followerNone">Tidak ada Followers</string>
+    <string name="userNone">Tidak ada akun dengan user tersebut, silahkan cari lagi..</string>
+
+    <string name="contentDescriptionDetail">image profile from user</string>
+    <string name="userDetailName">Kevin Malik Fajar</string>
+    <string name="followersFollowingCount">35</string>
+
+    <string name="githubLink">https://github.com/kevinmf1</string>
+    <string name="share">Home</string>
+    <string name="search">search</string>
+    <string name="search_hint">Masukan username…</string>
+
+    <string name="GithubAPP">Github Fan Made APP</string>
+    <string name="setting">Setting</string>
+    <string name="favorite">Favorite</string>
+    <string name="FavoriteIcon">This is a favorite icon</string>
+    <string name="IconSplash">This is a splash icon</string>
+
+    <string name="nightmode">Setting Night Mode</string>
+    <string name="descriptionNightMode">Turn on night mode</string>
+    <string name="descriptionOffNightMode">Turn off night mode</string>
+
+    <string name="deleteFromFav">is deleted from favorite</string>
+    <string name="addToFav">is added to favorite</string>
+    <string name="seeFavorite">See favorite</string>
+    <string name="undo">Undo</string>
+    <string name="userFavoriteNone">Belum ada akun yang kamu favoritkan di sini :(</string>
+
+    <string name="favoriteUser">Favorite User</string>
+</resources>
