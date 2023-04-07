@@ -14,7 +14,7 @@ Fitur yang diterapkan di dalam project ini
 6. Glide untuk menampilkan gambar
 7. Dan masih banyak lagi 
 
-### Preview Aplikasi (Ketika Dark Mode)
-![When Light Mode](https://user-images.githubusercontent.com/97342935/230451337-f92df963-1903-44ba-865e-da82f2bd579b.png)
 ### Preview Aplikasi (Ketika Light Mode)
+![When Light Mode](https://user-images.githubusercontent.com/97342935/230451337-f92df963-1903-44ba-865e-da82f2bd579b.png)
+### Preview Aplikasi (Ketika Dark Mode)
 ![When Light Mode (1)](https://user-images.githubusercontent.com/97342935/230451459-de6699c6-91c8-4479-90a7-15b071a045e2.png)
